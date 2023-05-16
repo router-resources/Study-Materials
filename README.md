@@ -27,8 +27,7 @@ To gain a concise understanding of the core principles, technical specifications
 
 ## `Router CrossTalk`
 To simplify the development of CrossChain Dapps, the Router Protocol team has created Router Crosstalk, a powerful library designed specifically for this purpose.To quickly familiarize yourself with the key concepts, methods, and best practices of Router Crosstalk, we recommend exploring the Router Crosstalk cheatsheet. This handy resource provides a concise yet comprehensive understanding of Router CrossTalk
-[Router CrossTalk CheatSheet]
-(https://docs.google.com/document/d/1VUL6l0MHrsYgM3Hyb3I4OrXg6SRJ9_ae6o_317bgQ5I/edit?usp=sharing)
+[Router CrossTalk CheatSheet](https://docs.google.com/document/d/1VUL6l0MHrsYgM3Hyb3I4OrXg6SRJ9_ae6o_317bgQ5I/edit?usp=sharing)
 
 ## `Router CrossTalk Applications`
 
