@@ -17,7 +17,7 @@ Router Protocol is a solution introduced to address the issues hindering the usa
 
 ## `Router Documentation`
 To gain a deep and thorough understanding of the underlying concepts, intricacies, and functionalities, we highly recommend exploring the official documentation of Router Protocol. This comprehensive resource serves as an invaluable reference, providing detailed insights and explanations for every aspect of Router Protocol
-[official documentation of Router Protocol](https://docs.routerprotocol.com/)
+[Official documentation of Router Protocol](https://docs.routerprotocol.com/)
 
 ## `Router Protocol Litepaper`
 To gain a concise understanding of the core principles, technical specifications, and innovative features, we invite you to explore the Litepaper of Router Protocol. This concise yet comprehensive document serves as a definitive guide, presenting a high-level overview of Router Protocol's vision, architecture, and ecosystem.
@@ -30,6 +30,12 @@ To simplify the development of CrossChain Dapps, the Router Protocol team has cr
 [Router CrossTalk CheatSheet]
 (https://docs.google.com/document/d/1VUL6l0MHrsYgM3Hyb3I4OrXg6SRJ9_ae6o_317bgQ5I/edit?usp=sharing)
 
+## `Router CrossTalk Applications`
+
+**CrossChain ERC20 Cookbook**
+Seamlessly transfer ERC20 tokens across different blockchain networks with ease, thanks to CrossTalk library
+To quickly grasp the implementation details, advanced techniques, and practical examples of utilizing CrossChain ERC20 in your projects, we invite you to explore the CrossChain ERC20 cookbook.
+[CrossChain ERC20 Cookbook](https://github.com/router-resources/ERC20-Cookbook)
 
 # ⭐️ `Star us`
 
