@@ -14,7 +14,16 @@
 
 Router Protocol is a solution introduced to address the issues hindering the usability of cross-chain liquidity migration in the DeFi ecosystem. It acts as a bridge connecting various layer 1 and layer 2 blockchains, allowing for the flow of contract-level data across them. The Router Protocol can either transfer tokens between chains or initiate operations on one chain and execute them on another.
 
-Please check the [official documentation of Router Protocol](https://www.routerprotocol.com/)
+
+## `Router Documentation`
+[official documentation of Router Protocol](https://www.routerprotocol.com/)
+
+## `Router Protocol Latest Whitepaper`
+[official documentation of Router Protocol](https://www.routerprotocol.com/)
+
+## `Router CrossTalk`
+[https://docs.google.com/document/d/1VUL6l0MHrsYgM3Hyb3I4OrXg6SRJ9_ae6o_317bgQ5I/edit?usp=sharing
+](Router CrossTalk CheatSheet)
 
 
 
@@ -32,4 +41,3 @@ If you need help or have other some questions - don't hesitate to write in our d
 git clone https://github.com/router-resources/Study-Materials
 ```
 
-## `Router CrossTalk`
