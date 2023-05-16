@@ -32,6 +32,7 @@ To simplify the development of CrossChain Dapps, the Router Protocol team has cr
 ## `Router CrossTalk Applications`
 
 **CrossChain ERC20 Cookbook**
+
 Seamlessly transfer ERC20 tokens across different blockchain networks with ease, thanks to CrossTalk library.
 To quickly grasp the implementation details, advanced techniques, and practical examples of utilizing CrossChain ERC20 in your projects, we invite you to explore the CrossChain ERC20 cookbook.
 [CrossChain ERC20 Cookbook](https://github.com/router-resources/ERC20-Cookbook)
@@ -42,7 +43,7 @@ If this repository helps you build cross-chain dapps faster and easier - please 
 
 # 🤝 `Need help?`
 
-If you need help or have other some questions - don't hesitate to write in our discord channel and we will check asap. [Discord link](https://discord.gg/xvx2pFu9). The best thing about this is the super active community ready to help at any time! We help each other.
+If you need help or have other some questions - don't hesitate to write in our discord channel and we will check asap. [Discord link](https://discord.gg/z7v3mrUE). The best thing about this is the super active community ready to help at any time! We help each other.
 
 # 🤝 `Clone or fork this repository`
 
