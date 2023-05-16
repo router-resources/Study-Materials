@@ -16,15 +16,16 @@ Router Protocol is a solution introduced to address the issues hindering the usa
 
 
 ## `Router Documentation`
-[official documentation of Router Protocol](https://www.routerprotocol.com/)
+[official documentation of Router Protocol](https://docs.routerprotocol.com/)
 
-## `Router Protocol Latest Whitepaper`
-[official documentation of Router Protocol](https://www.routerprotocol.com/)
+## `Router Protocol Litepaper`
+[Litepaper](https://drive.google.com/file/d/1g_JZUb9ArDdYckSgZsLTIZmQMSFc56IV/view?usp=sharing
+)
+
 
 ## `Router CrossTalk`
-[https://docs.google.com/document/d/1VUL6l0MHrsYgM3Hyb3I4OrXg6SRJ9_ae6o_317bgQ5I/edit?usp=sharing
-](Router CrossTalk CheatSheet)
-
+[Router CrossTalk CheatSheet]
+(https://docs.google.com/document/d/1VUL6l0MHrsYgM3Hyb3I4OrXg6SRJ9_ae6o_317bgQ5I/edit?usp=sharing)
 
 
 # ⭐️ `Star us`
