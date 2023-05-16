@@ -27,14 +27,11 @@ To gain a concise understanding of the core principles,problem solved, we invite
 ## `Basics of Blockchain & Solidity Programming`
 Embark on a transformative journey into the world of Blockchain and Solidity programming with these comprehensive guide/tutorials. Whether you're a beginner exploring the fundamentals or an experienced developer seeking to expand your skill set, these resource is designed to provide you with a solid foundation before begining with CrossChain Dapp Development with Router Protocol
 
-**Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course**
-https://www.youtube.com/watch?v=gyMwXuJrbJQ
+[**Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course**](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 
-**Solidity EBook**
-https://www.ikamy.ch/public/img/books/Introducing+Ethereum+and+Solidity.pdf
+[**Solidity EBook**](https://www.ikamy.ch/public/img/books/Introducing+Ethereum+and+Solidity.pdf)
 
-**Solidity Cheatsheet**
-https://cheatography.com/hsoudry/cheat-sheets/solidity/pdf/
+[**Solidity Cheatsheet**](https://cheatography.com/hsoudry/cheat-sheets/solidity/pdf/)
 
 
 ## `Router CrossTalk`
