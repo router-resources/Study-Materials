@@ -16,14 +16,17 @@ Router Protocol is a solution introduced to address the issues hindering the usa
 
 
 ## `Router Documentation`
+To gain a deep and thorough understanding of the underlying concepts, intricacies, and functionalities, we highly recommend exploring the official documentation of Router Protocol. This comprehensive resource serves as an invaluable reference, providing detailed insights and explanations for every aspect of Router Protocol
 [official documentation of Router Protocol](https://docs.routerprotocol.com/)
 
 ## `Router Protocol Litepaper`
+To gain a concise understanding of the core principles, technical specifications, and innovative features, we invite you to explore the Litepaper of Router Protocol. This concise yet comprehensive document serves as a definitive guide, presenting a high-level overview of Router Protocol's vision, architecture, and ecosystem.
 [Litepaper](https://drive.google.com/file/d/1g_JZUb9ArDdYckSgZsLTIZmQMSFc56IV/view?usp=sharing
 )
 
 
 ## `Router CrossTalk`
+To simplify the development of CrossChain Dapps, the Router Protocol team has created Router Crosstalk, a powerful library designed specifically for this purpose.To quickly familiarize yourself with the key concepts, methods, and best practices of Router Crosstalk, we recommend exploring the Router Crosstalk cheatsheet. This handy resource provides a concise yet comprehensive understanding of Router CrossTalk
 [Router CrossTalk CheatSheet]
 (https://docs.google.com/document/d/1VUL6l0MHrsYgM3Hyb3I4OrXg6SRJ9_ae6o_317bgQ5I/edit?usp=sharing)
 
